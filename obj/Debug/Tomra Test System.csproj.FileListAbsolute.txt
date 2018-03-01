@@ -1,0 +1,20 @@
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\bin\Debug\Tomra Test System.exe.config
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\bin\Debug\Tomra Test System.exe
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\bin\Debug\Tomra Test System.pdb
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.csprojResolveAssemblyReference.cache
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\MainWindow.g.cs
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\App.g.cs
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System_MarkupCompile.cache
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System_MarkupCompile.lref
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\MainWindow.baml
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.g.resources
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra_Test_System.Properties.Resources.resources
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.csproj.GenerateResource.Cache
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.csproj.CoreCompileInputs.cache
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.exe
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.pdb
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Resouce\Xaml\ProductSelect.g.cs
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Resouce\Xaml\ProductSelect.baml
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Tomra Test System.csproj.ResolveComReference.cache
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Resouce\Xaml\ManuallyVerify.g.cs
+D:\HWB\software\C#\Tomra Test System\Tomra Test System\obj\Debug\Resouce\Xaml\ManuallyVerify.baml

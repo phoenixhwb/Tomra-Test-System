@@ -1,0 +1,40 @@
+﻿<Window x:Class="Tomra_Test_System.ManuallyVerify"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tomra_Test_System"
+        mc:Ignorable="d"
+        Title="ManuallyVerify" Height="400" Width="600"
+        >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="6*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Image Name="IRef" Grid.ColumnSpan="2"/>
+        <TextBlock Name="TbInstrument" Grid.Row="1" Grid.ColumnSpan="2" 
+                   FontSize="20"
+                   TextAlignment="Center"
+                   Text="请判断是否PASS！"/>
+        <Button Name="BtnPass" Grid.Row="2" Grid.Column="0"
+                Click="BtnPass_Click"
+                Background="Green"
+                Content="PASS"
+                FontSize="20"
+                Margin="5"/>
+        <Button Name="BtnFail" Grid.Row="2" Grid.Column="1"
+                Click="BtnFail_Click"
+                Background="Red"
+                Content="FAIL"
+                FontSize="20"
+                Margin="5"/>
+
+    </Grid>
+</Window>
